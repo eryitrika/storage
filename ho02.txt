@@ -55,8 +55,8 @@
 # 121.164.148.51	s3-ap-northeast-1.amazonaws.com # Taiwan
 # 121.164.148.51	mitm.it # Taiwan SecurePass
 # 121.164.148.51	gfjp-transit.sunborngame.com # Japan
-# 39.107.222.149	gf-adrgw-cn-zs-game-0001.ppgame.com #Digitalsky - connect channeling server instead of server num0 
-# 39.105.249.76	gf-adrbili-cn-zs-game-0001.ppgame.com #Bilibili - connect channeling server instead of server num0 
+39.107.222.149	gf-adrgw-cn-zs-game-0001.ppgame.com #Digitalsky - connect channeling server instead of server num0 
+39.105.249.76	gf-adrbili-cn-zs-game-0001.ppgame.com #Bilibili - connect channeling server instead of server num0 
 
 # new.lewd.ninja adblock
 127.0.0.1	ck.juicyads.com
