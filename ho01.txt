@@ -61,3 +61,7 @@
 # new.lewd.ninja adblock
 0.0.0.0	ck.juicyads.com
 0.0.0.0	adserver.juicyads.com
+
+# avira adblock
+0.0.0.0	ipm.avira.com
+0.0.0.0	notifier.avira.com
