@@ -1,0 +1,123 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# Adobe License PASS
+127.0.0.1       adobeereg.com
+127.0.0.1       www.adobeereg.com (새 창으로 열기)
+127.0.0.1       activate.adobe.com
+127.0.0.1       practivate.adobe.com
+127.0.0.1       ereg.adobe.com
+127.0.0.1       activate.wip3.adobe.com
+127.0.0.1       wip3.adobe.com
+127.0.0.1       3dns-3.adobe.com
+127.0.0.1       3dns-2.adobe.com
+127.0.0.1       adobe-dns.adobe.com
+127.0.0.1       adobe-dns-2.adobe.com
+127.0.0.1       adobe-dns-3.adobe.com
+127.0.0.1       ereg.wip3.adobe.com
+127.0.0.1       activate-sea.adobe.com
+127.0.0.1       wwis-dubc1-vip60.adobe.com
+127.0.0.1       activate-sjc0.adobe.com
+127.0.0.1       hl2rcv.adobe.com
+127.0.0.1       lmlicenses.wip4.adobe.com
+127.0.0.1       lm.licenses.adobe.com
+
+# Girls Frontline Anti-AOE Patch + Korean Patch
+# https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=1434549 (2020.02.15)
+# https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=1439862 (2020.02.25)
+# http://speedtest63120.synology.me:404/GFPAC.js
+# (Original) 183.146.215.143	gf-adrgw-cn-zs-game-0001.ppgame.com # Digitalsky server num0
+# (Original) 183.146.215.143	gf-adrbili-cn-zs-game-0001.ppgame.com # bilibili server num0
+# (Original) 39.107.222.149	s1.gw.gf.ppgame.com/index.php # Digitalsky channeling server
+# (Original) 39.105.249.76	s1.bili.gf.ppgame.com/index.php # Bilibili channeling server
+# 
+
+# 121.164.148.51	oss-rescnf.gf.ppgame.com # Korean Patch - Digitalsky
+# 121.164.148.51	bili.adr.transit.gf.ppgame.com # Korean Patch - Bilibili
+# 39.107.222.149	gf-adrgw-cn-zs-game-0001.ppgame.com #Digitalsky - connect channeling server instead of server num0 
+# 39.105.249.76	gf-adrbili-cn-zs-game-0001.ppgame.com #Bilibili - connect channeling server instead of server num0 
+
+# 121.164.148.51	sn-list.girlfrontline.co.kr  # Anti-AOE hang
+# 121.164.148.51	s3-ap-northeast-1.amazonaws.com # Taiwan
+# 121.164.148.51	mitm.it # Taiwan SecurePass
+# 121.164.148.51	gfjp-transit.sunborngame.com # Japan
+
+
+# new.lewd.ninja adblock
+0.0.0.0	ck.juicyads.com
+0.0.0.0	adserver.juicyads.com
+
+# avira adblock
+0.0.0.0	ipm.avira.com
+0.0.0.0	notifier.avira.com
+
+# Windows10 KMS Activator (CMD - Run as administrator)
+# slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+# slmgr /skms kms.digiboy.ir
+# slmgr /ato
+# 162.223.90.90 kms.digiboy.ir
+
+# Favorite Sites
+# 185.199.109.153 github.io
+# 121.189.48.26 jobkorea.co.kr
+# 182.162.86.29 saramin.co.kr
+# 210.89.160.88 naver.com
+# 172.217.161.46 google.com
+# 172.217.174.99 google.co.kr
+# 151.101.129.164 nytimes.com
+# 151.101.65.111 theguardian.com
+# 13.234.153.3 duckduckgo.com
+# 13.107.21.200 bing.com
+# 104.19.251.66 namu.wik
+# 52.78.205.152 librewiki.net
+# 182.162.110.129 inven.co.kr
+# 185.94.84.100 investing.com
+# 172.217.25.110 youtube.com
+# 121.125.60.151 dcinside.com
+# 104.76.86.93 steampowered.com
+# 110.10.129.207 directg.net
+# 113.217.247.100 11st.co.kr
+# 162.159.129.233 discordapp.com
+# 210.140.131.219 pixiv.net
+# 45.32.0.237 saucenao.com
+# 104.244.42.193 twitter.com
+# 165.227.112.236 twittervideodownloader.com
+# 1.255.42.31 fow.kr
+# 222.122.134.144 netmarble.net
+# 203.133.167.81 daum.net
+# 104.31.68.238 ssjoy.org
+# 115.68.95.4 ivyro.net
+# 104.255.105.98 rockstargames.com
+# 207.241.224.2 archive.org
+# 5.101.151.18  archive.is
+# 5.101.151.18  archive.li
+# 5.101.151.18  archive.fo
+# 5.101.151.18  archive.ph
+# 5.101.151.18  archive.vn
+# 5.101.151.18  archive.today
+# 104.28.11.69 nullschool.net
+# 151.101.40.193 imgur.com
+# 151.101.2.167 twitch.tv
+# 52.44.139.115 plug.dj
+# 70.42.73.23 di.fm
+# 35.186.224.25 spotify.com
+# 104.20.38.86 piliapp.com
