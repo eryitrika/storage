@@ -15,7 +15,7 @@ function FindProxyForURL(url, host) {
   if (shExpMatch(host, "gfjp-transit.sunborngame.com"))
     return "PROXY speedtest63120.synology.me:80";
 
-// Drony앱 사용자는 알리미에 연결하려면 "????"를 "PROXY 외부IP주소:포트"로 변경
+// Drony앱 사용자는 알리미에 연결하려면 "DIRECT"를 "PROXY 외부IP주소:포트"로 변경
 // LTE를 통한 알리미연결은 포트 포워딩 또는 UPnP가 필요함
   if (shExpMatch(host, "*.girlfrontline.co.kr"))
     return "DIRECT";
