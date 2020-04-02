@@ -51,10 +51,10 @@
 # (Original) 39.105.249.76	s1.bili.gf.ppgame.com/index.php # Bilibili channeling server
 # 
 
-# 121.164.148.51	oss-rescnf.gf.ppgame.com # Korean Patch - Digitalsky
-# 121.164.148.51	bili.adr.transit.gf.ppgame.com # Korean Patch - Bilibili
-# 39.107.222.149	gf-adrgw-cn-zs-game-0001.ppgame.com #Digitalsky - connect channeling server instead of server num0 
-# 39.105.249.76	gf-adrbili-cn-zs-game-0001.ppgame.com #Bilibili - connect channeling server instead of server num0 
+121.164.148.51	oss-rescnf.gf.ppgame.com # Korean Patch - Digitalsky
+121.164.148.51	bili.adr.transit.gf.ppgame.com # Korean Patch - Bilibili
+39.107.222.149	gf-adrgw-cn-zs-game-0001.ppgame.com #Digitalsky - connect channeling server instead of server num0 
+39.105.249.76	gf-adrbili-cn-zs-game-0001.ppgame.com #Bilibili - connect channeling server instead of server num0 
 
 # 121.164.148.51	sn-list.girlfrontline.co.kr  # Anti-AOE hang
 # 121.164.148.51	s3-ap-northeast-1.amazonaws.com # Taiwan
