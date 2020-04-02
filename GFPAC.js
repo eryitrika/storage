@@ -5,10 +5,10 @@ function FindProxyForURL(url, host) {
   }
   if (shExpMatch(url, "*list.girlfrontline.co*") || shExpMatch(host, "sn-list.girlfrontline.co.kr")) {
       return "PROXY speedtest63120.synology.me:80";
-//      return "DIRECT";
+//      return "192.168.1.2:9000";
   }
   if (shExpMatch(host, "sn-list.txwy.tw"))
-      return "DIRECT";
+      return "192.168.1.2:9000";
 //    return "PROXY speedtest63120.synology.me:80";
   if (shExpMatch(host, "s3-ap-northeast-1.amazonaws.com") || shExpMatch(host, "mitm.it"))
     return "PROXY speedtest63120.synology.me:8080";
