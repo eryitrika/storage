@@ -1,6 +1,6 @@
 // 소전한패서버by익살가면
 function FindProxyForURL(url, host) {
-  if (shExpMatch(host, "oss-rescnf.gf.ppgame.com") || dnsDomainIs(host, "oss-rescnf.gf.ppgame.com") || dnsDomainIs(host, "bili.adr.transit.gf.ppgame.com")) {
+  if (shExpMatch(host, "oss-rescnf.gf.ppgame.com") || dnsDomainIs(host, "oss-rescnf.gf.ppgame.com")) {
       return "PROXY speedtest63120.synology.me:80"; 
   }
   if (shExpMatch(url, "*list.girlfrontline.co*") || shExpMatch(host, "sn-list.girlfrontline.co.kr")) {
@@ -23,6 +23,8 @@ function FindProxyForURL(url, host) {
     return "PROXY 39.107.222.149:80";
   if (shExpMatch(host, "gf-adrbili-cn-zs-game-0001.ppgame.com"))
     return "PROXY 39.105.249.76:80";
+//  if (shExpMatch(host, "adr.transit.gf.ppgame.com") || dnsDomainIs(host, "bili.adr.transit.gf.ppgame.com"))
+//    return "PROXY 103.239.246.156:80";
   if (shExpMatch(host, "*.ppgame.com"))
     return "PROXY 192.168.1.2:9000";
   if (shExpMatch(host, "*.sunborngame.com"))

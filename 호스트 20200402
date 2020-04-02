@@ -22,7 +22,7 @@
 
 # Adobe License PASS
 127.0.0.1       adobeereg.com
-127.0.0.1       www.adobeereg.com (새 창으로 열기)
+127.0.0.1       www.adobeereg.com
 127.0.0.1       activate.adobe.com
 127.0.0.1       practivate.adobe.com
 127.0.0.1       ereg.adobe.com
@@ -61,14 +61,13 @@
 # 121.164.148.51	mitm.it # Taiwan SecurePass
 # 121.164.148.51	gfjp-transit.sunborngame.com # Japan
 
-
 # new.lewd.ninja adblock
-0.0.0.0	ck.juicyads.com
-0.0.0.0	adserver.juicyads.com
+127.0.0.1	ck.juicyads.com
+127.0.0.1	adserver.juicyads.com
 
 # avira adblock
-0.0.0.0	ipm.avira.com
-0.0.0.0	notifier.avira.com
+127.0.0.1	ipm.avira.com
+127.0.0.1	notifier.avira.com
 
 # Windows10 KMS Activator (CMD - Run as administrator)
 # slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
