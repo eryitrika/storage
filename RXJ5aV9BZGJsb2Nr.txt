@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List
-! Version: 20.12.22.18
+! Version: 20.12.22
 ! Source: https://github.com/eryitrika/storage/edit/master/RXJ5aV9BZGJsb2Nr.txt
 @@||wasabisyrup.com/$document
 gall.dcinside.com##script[src$="blockadblock.js"]
