@@ -62,7 +62,7 @@ kr.investing.com###adFreeSalePopup
 ! 2019. 12. 22. https://commands.gg
 commands.gg##.f-NJD1R8-1-
 ! 2020. 6. 11. https://gelbooru.com
-||gelbooru.com/extras/gelbooruBOSticker.png$image
+! ||gelbooru.com/extras/gelbooruBOSticker.png$image
 ! 2020. 6. 20. https://gall.dcinside.com
 ||dcimg7.dcinside.co.kr/viewimage.php?id=2abbdc74&no=24b0d769e1d32ca73ced8efa11d02831dd2ecabb386674d2cf3d2b24d0c46341a5cd7747aca7de7545241c8a1c08451b7b3f3627768a525a85268fcca5bea774ef62f5863e50e151af952503976077ca88628c40db13e96e44b2af57c3a7e0997341683c6d$image
 ! 2020. 6. 24. https://hiyobi.me
@@ -76,12 +76,12 @@ namu.wiki#@#div[id^="chika"]
 namu.wiki##div.content-wrapper:nth-child(3) > aside.sidebar:first-child > div.card.live-list-card:last-child
 namu.wiki##div.content-wrapper:nth-child(3) > div.live-topbar-area:nth-child(2)
 ! 2020-10-20 https://gelbooru.com
-gelbooru.com##video
+! gelbooru.com##video
 ! 2020-11-07 https://www.twitch.tv
 www.twitch.tv##.tw-relative.tw-justify-content-center.tw-flex.tw-align-items-center.featured-content-carousel
 ! 2020-11-07 https://gelbooru.com
-||gelbooru.com/thedoujin0.jpg$image
-||gelbooru.com/thedoujin1.jpg$image
+! ||gelbooru.com/thedoujin0.jpg$image
+! ||gelbooru.com/thedoujin1.jpg$image
 @@||arca.live^$important,document
 @@||wemod.com
 @@||ws.pusherapp.com/app^$third-party
