@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List
-! Version: 20.12.24
+! Version: 21.1.2
 ! Source: https://github.com/eryitrika/storage/edit/master/RXJ5aV9BZGJsb2Nr.txt
 @@||wasabisyrup.com/$document
 gall.dcinside.com##script[src$="blockadblock.js"]
@@ -89,3 +89,7 @@ www.twitch.tv##.tw-relative.tw-justify-content-center.tw-flex.tw-align-items-cen
 ! 2020-12-22 https://gall.dcinside.com
 gall.dcinside.com##.ani_lines
 gall.dcinside.com##.linebox
+! 2020-12-27 https://www.kfootball.org
+www.kfootball.org###copytrack > .detected > div
+! 2021-01-01 https://gall.dcinside.com
+gall.dcinside.com##li:nth-of-type(10)
