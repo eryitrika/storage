@@ -92,4 +92,4 @@ gall.dcinside.com##.linebox
 ! 2020-12-27 https://www.kfootball.org
 www.kfootball.org###copytrack > .detected > div
 ! 2021-01-01 https://gall.dcinside.com
-gall.dcinside.com##li:nth-of-type(10)
+gall.dcinside.com##li:nth-of-type(8)
