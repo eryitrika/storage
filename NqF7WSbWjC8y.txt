@@ -11,4 +11,5 @@ gall.dcinside.com##.r_news.content_box
 gall.dcinside.com##.r_hit.content_box
 gall.dcinside.com##.r_sec_recommend.content_box
 gall.dcinside.com##.r_wiki.content_box
+gall.dcinside.com##.all_list
 @@||gall.dcinside.com##li:nth-of-type(8)
