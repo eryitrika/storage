@@ -1,4 +1,4 @@
-! Title: Eryitrika Adblock List
+! Title: Eryitrika Adblock List v1 (obsolete)
 ! Version: 21.1.24
 ! Source: https://github.com/eryitrika/storage/edit/master/RXJ5aV9BZGJsb2Nr.txt
 @@||wasabisyrup.com/$document
