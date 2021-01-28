@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List v2
-! Version: 21.1.28
+! Version: 21.1.28.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/NqF7WSbWjC8y.txt
 
 ! 2021-01-27 https://gall.dcinside.com
@@ -13,3 +13,4 @@ gall.dcinside.com##.r_sec_recommend.content_box
 gall.dcinside.com##.r_wiki.content_box
 gall.dcinside.com##.all_list
 @@||gall.dcinside.com##li:nth-of-type(8)
+@@||arca.live^$important,document
