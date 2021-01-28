@@ -12,3 +12,4 @@ gall.dcinside.com##.r_hit.content_box
 gall.dcinside.com##.r_sec_recommend.content_box
 gall.dcinside.com##.r_wiki.content_box
 gall.dcinside.com##li:nth-of-type(8)
+@@||*.dcinside.com/dccon.php?no=*
