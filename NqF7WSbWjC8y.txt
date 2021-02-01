@@ -5,7 +5,7 @@
 ! https://arca.live/
 @@||arca.live^$important,document
 
-! https://gall.dcinside.com
+! https://gall.dcinside.com/
 gall.dcinside.com##.clear.issue_contentbox
 gall.dcinside.com##.visit_history
 gall.dcinside.com##.r_recommend.content_box
