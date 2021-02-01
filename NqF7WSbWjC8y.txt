@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List v2
-! Version: 21.1.27.4
+! Version: 21.2.1.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/NqF7WSbWjC8y.txt
 
 ! 2021-01-27 https://gall.dcinside.com
@@ -49,3 +49,4 @@ dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0
 dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65ceb246e13df9546348593b9b33d53ca2b363e94cc26decbdeba71db8f3be82362329f1eb506a83d
 dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b651ea246e45481f2ae3db7bc44d6651b19d68c3021e67a713ef344ea9b2e46cc9754b0c109098d23b5242e8d46b
 dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b651ea246e45481f2ae3db7bc44d6651b19d68c3021e67a713ef344ea9b2e46cc9754b0c109098d23b5342ffd36a
+dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65ee2266ef8abfdbf457a63af3dccedd88d14c6018033dcf8e87652e444cf42b8160ff71b5b0ea21e6cad2df1
