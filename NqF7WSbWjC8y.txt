@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List v2
-! Version: 21.2.15.4
+! Version: 21.3.20.18
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/NqF7WSbWjC8y.txt
 ! 
 ! https://arca.live/
@@ -66,3 +66,6 @@ gall.dcinside.com###gall_top_recom > .pageing_box
 
 ! 2021-02-15 https://kr.investing.com
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
+
+! 2021-03-18 https://dcimg7.dcinside.co.kr/
+https://dcimg7.dcinside.co.kr/viewimage.php?id=20b4d22c&no=24b0d769e1d32ca73dec80fa11d028316f56ba15eaa5e1d2899cddb8daa53bb4ff98cc77c13319b69bf45dd83a97ed5586f2284048b0d4166af8815c04d1826e6b5434d38f80a671
