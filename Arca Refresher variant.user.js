@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Arca Refresher
+// @name            Arca Refresher Variant
 // @namespace       LeKAKiD
 // @description     Arca Live Extension
 // @downloadURL     https://github.com/lekakid/ArcaRefresher/releases/latest/download/ArcaRefresher.user.js
