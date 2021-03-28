@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name            Arca Refresher Variant
-// @namespace       LeKAKiD
-// @description     Arca Live Extension
-// @downloadURL     https://github.com/lekakid/ArcaRefresher/releases/latest/download/ArcaRefresher.user.js
-// @homepageURL     https://github.com/lekakid/ArcaRefresher
+// @namespace       LeKAKiD(Main Developer)+Eryitrika(simply modified)
+// @description     Arca Live Extension Variant
+// @downloadURL     https://raw.githubusercontent.com/eryitrika/storage/master/ArcaRefresher.variant.js
+// @homepageURL     https://github.com/eryitrika/storage
 // @supportURL      https://arca.live/b/namurefresher
 // @match           https://*.arca.live/*
 // @match           https://arca.live/*
@@ -2432,7 +2432,7 @@ const FILENAME = {
 };
 const IMAGENAME = {
   key: 'imageDonwloaderImageName',
-  defaultValue: '%num%_%orig%'
+  defaultValue: '%num%_%orig%' // Modified (Eryitrika)
 };
 const ZIP_COMMENT = {
   key: 'imageDownloaderZipComment',
