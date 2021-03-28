@@ -16,8 +16,8 @@
 // @grant           GM_listValues
 // @grant           GM_xmlhttpRequest
 // @grant           GM_getResourceText
-// @version         2.13.2
-// @author          LeKAKiD
+// @version         2.13.2.0
+// @author          LeKAKiD(Main Developer)+Eryitrika(simply modified)
 // @require         https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom,npm/@violentmonkey/ui
 // @require         https://unpkg.com/file-saver@2.0.2/dist/FileSaver.min.js
 // @require         https://unpkg.com/jszip@3.1.5/dist/jszip.min.js
