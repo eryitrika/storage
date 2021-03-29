@@ -16,7 +16,7 @@
 // @grant           GM_listValues
 // @grant           GM_xmlhttpRequest
 // @grant           GM_getResourceText
-// @version         2.13.2.0
+// @version         2.13.2.1
 // @author          LeKAKiD(Main Developer)+Eryitrika(simply modified)
 // @require         https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom,npm/@violentmonkey/ui
 // @require         https://unpkg.com/file-saver@2.0.2/dist/FileSaver.min.js
@@ -2432,7 +2432,7 @@ const FILENAME = {
 };
 const IMAGENAME = {
   key: 'imageDonwloaderImageName',
-  defaultValue: '%num%_%orig%' // Modified (Eryitrika)
+  defaultValue: '%title%_%num%' // Modified (Eryitrika)
 };
 const ZIP_COMMENT = {
   key: 'imageDownloaderZipComment',
