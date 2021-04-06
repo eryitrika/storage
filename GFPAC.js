@@ -7,5 +7,5 @@ function FindProxyForURL(url, host) {
     else if (dnsDomainIs(host, "gf-cn.oss-cn-beijing.aliyuncs.com")) {
         return "PROXY klanet.iptime.org:9000";
     }
-    return "PROXY 192.168.1.2:9000";
+    return "DIRECT";
 }
