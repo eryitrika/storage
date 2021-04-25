@@ -2,9 +2,9 @@
 ! Version: 21.4.13.14
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/NqF7WSbWjC8y.txt
 ! 
-! https://arca.live/
-@@||arca.live^$important,document
+! https://arca.live
 arca.live##.right-sidebar > .ad
+@@||arca.live^$important,document
 ! 
 ! https://gall.dcinside.com/
 gall.dcinside.com##.clear.issue_contentbox
