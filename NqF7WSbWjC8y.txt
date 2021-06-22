@@ -4,6 +4,7 @@
 ! 
 ! https://arca.live
 arca.live##.right-sidebar > .ad
+||arca.live/api/ads^
 @@||arca.live^$important,document
 ! 
 ! https://gall.dcinside.com/
