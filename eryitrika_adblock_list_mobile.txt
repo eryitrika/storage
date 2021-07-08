@@ -1,4 +1,4 @@
-! Title: Eryitrika Adblock List PC
+! Title: Eryitrika Adblock List Mobile
 ! Version: 21.7.9.5
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/NqF7WSbWjC8y.txt
 ! 
