@@ -5,7 +5,7 @@
 ! https://arca.live
 ||arca.live##.right-sidebar > .ad
 ||arca.live/api/ads^
-! @@||arca.live^$important,document
+! @@||arca.live^$important,document - be compared
 ||ac.namu.la/*.mp4
 ! 
 ! https://gall.dcinside.com/
