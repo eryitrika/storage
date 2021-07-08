@@ -3,8 +3,9 @@
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list_mobile.txt
 ! 
 ! https://arca.live
-arca.live##.right-sidebar > .ad
-arca.live/api/ads^
+||arca.live##.right-sidebar > .ad
+||arca.live/api/ads^
+! @@||arca.live^$important,document
 ||ac.namu.la/*.mp4
 ! 
 ! https://gall.dcinside.com/
