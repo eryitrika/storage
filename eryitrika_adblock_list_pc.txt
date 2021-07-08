@@ -6,7 +6,7 @@
 ||arca.live##.right-sidebar > .ad
 ||arca.live/api/ads^
 @@||arca.live^$important,document
-! ||ac.namu.la/*.mp4
+! ||ac.namu.la/*.mp4 - be compared
 ! 
 ! https://gall.dcinside.com/
 ||gall.dcinside.com##.clear.issue_contentbox
