@@ -1,6 +1,6 @@
 ! Title: Eryitrika Adblock List Mobile
-! Version: 21.7.9.5
-! Source: https://raw.githubusercontent.com/eryitrika/storage/master/NqF7WSbWjC8y.txt
+! Version: 21.7.9.6
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list_mobile.txt
 ! 
 ! https://arca.live
 arca.live##.right-sidebar > .ad
