@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List Mobile
-! Version: 21.7.9.16
+! Version: 21.7.28.23
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list_mobile.txt
 ! 
 ! https://arca.live
@@ -76,3 +76,6 @@ dcimg7.dcinside.co.kr/viewimage.php?id=20b4d22c&no=24b0d769e1d32ca73dec80fa11d02
 ! 
 ! 2021-04-13 https://gall.dcinside.com
 gall.dcinside.com##.r_timebest.content_box
+!
+! 2021-07-28 https://namu.wiki
+||arca.live/external/callad$subdocument
