@@ -79,3 +79,10 @@ gall.dcinside.com##.r_timebest.content_box
 !
 ! 2021-07-28 https://namu.wiki
 ||arca.live/external/callad$subdocument
+!
+! 2021-08-02 https://gall.dcinside.com
+gall.dcinside.com##.clear.issue_contentbox
+gall.dcinside.com##.r_recommend.content_box
+gall.dcinside.com##.r_hit.content_box
+gall.dcinside.com##.r_news.content_box
+gall.dcinside.com##.r_wiki.content_box
