@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List PC
-! Version: 21.7.28.23
+! Version: 21.8.2.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list_pc.txt
 ! 
 ! https://arca.live
