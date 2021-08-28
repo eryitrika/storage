@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-08-28T18:14:47.187Z",
+  "timestamp": "2021-08-28T18:18:43.969Z",
   "fileName": "foxyGestures.2021-08-29.json",
   "addonId": "{e839c3f9-298e-4cd0-99e0-464431cb7c34}",
   "version": "1.2.11",
@@ -68,12 +68,20 @@
         "gesture": "UD"
       },
       {
-        "command": "newTab",
+        "command": "reload",
+        "gesture": "RU"
+      },
+      {
+        "command": "closeWindow",
         "gesture": "RD"
       },
       {
-        "command": "reload",
-        "gesture": "RU"
+        "command": "newTab",
+        "gesture": "LU"
+      },
+      {
+        "command": "undoCloseTab",
+        "gesture": "LD"
       }
     ],
     "disableOnAlt": true,
