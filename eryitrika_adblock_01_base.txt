@@ -1,6 +1,6 @@
 ! Title: Eryitrika Adblock 01 Base
 ! Version: 21.10.27.3
-! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list.txt
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_01_base.txt
 !
 arca.live##.right-sidebar > .ad
 arca.live##.sticky-container > .ad
