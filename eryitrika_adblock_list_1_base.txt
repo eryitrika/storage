@@ -1,17 +1,10 @@
-! Title: Eryitrika Adblock List
-! Version: 21.10.27.2
+! Title: Eryitrika Adblock List 1 Base
+! Version: 21.10.27.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list.txt
 !
 arca.live##.right-sidebar > .ad
-! arca.live##.sticky-container > .ad
+arca.live##.sticky-container > .ad
 ! arca.live/api/ads^
-arca.live###form\.until
-arca.live##.batch-check
-arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
-arca.live##.btn-block-user.btn-danger.btn
-arca.live##.row.admin-menu
-arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
-arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
 !
 gall.dcinside.com##.clear.issue_contentbox
 gall.dcinside.com##.visit_history
