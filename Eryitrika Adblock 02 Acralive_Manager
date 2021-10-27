@@ -1,0 +1,11 @@
+! Title: Eryitrika Adblock 01 Base
+! Version: 21.10.27.3
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_01_base.txt
+!
+arca.live###form\.until
+arca.live##.batch-check
+arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
+arca.live##.btn-block-user.btn-danger.btn
+arca.live##.row.admin-menu
+arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
+arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
