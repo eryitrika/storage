@@ -1,5 +1,5 @@
 ! Title: Eryitrika Adblock List
-! Version: 21.10.27.1
+! Version: 21.10.27.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list.txt
 !
 arca.live##.right-sidebar > .ad
