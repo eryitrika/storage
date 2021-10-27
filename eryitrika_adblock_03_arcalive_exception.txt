@@ -2,4 +2,4 @@
 ! Version: 21.10.27.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_03_arcalive_exception.txt
 !
-@@arca.live##div.ad
+@@||arca.live##div.ad
