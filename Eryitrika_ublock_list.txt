@@ -1,0 +1,34 @@
+! Title: Eryitrika ublock list
+! Version: 21.10.27.3
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
+
+! https://arca.live base
+arca.live##.sticky-container > .ad
+
+! https://arca.live arcalive manager
+arca.live###form\.until
+arca.live##.batch-check
+arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
+arca.live##.btn-block-user.btn-danger.btn
+arca.live##.row.admin-menu
+arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
+arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
+
+! https://gall.dcinside.com
+gall.dcinside.com##.clear.issue_contentbox
+gall.dcinside.com##.visit_history
+gall.dcinside.com##.r_recommend.content_box
+gall.dcinside.com##.r_issuezoom.content_box
+gall.dcinside.com##.r_news.content_box
+gall.dcinside.com##.r_hit.content_box
+gall.dcinside.com##.r_sec_recommend.content_box
+gall.dcinside.com##.r_wiki.content_box
+gall.dcinside.com##.all_list
+gall.dcinside.com##.concept_txtlist
+gall.dcinside.com##div.concept_img:nth-of-type(2)
+gall.dcinside.com##.r_timebest.content_box
+gall.dcinside.com###gall_top_recom > .pageing_box
+@@||gall.dcinside.com##li:nth-of-type(8)
+
+! https://kr.investing.com
+kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
