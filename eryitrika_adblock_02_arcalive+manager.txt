@@ -1,6 +1,6 @@
 ! Title: Eryitrika Adblock 01 Arcalive manager
 ! Version: 21.10.27.3
-! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_01_base.txt
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_02_arcalive%2Bmanager.txt
 !
 arca.live###form\.until
 arca.live##.batch-check
