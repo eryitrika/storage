@@ -3,7 +3,7 @@
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list.txt
 !
 arca.live##.right-sidebar > .ad
-arca.live##.sticky-container > .ad
+! arca.live##.sticky-container > .ad
 ! arca.live/api/ads^
 arca.live###form\.until
 arca.live##.batch-check
