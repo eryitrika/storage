@@ -1,11 +1,11 @@
 ! Title: Eryitrika ublock list
-! Version: 21.10.27.3
+! Version: 21.10.27.4
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
-! https://arca.live base
+! https://arca.live (base)
 arca.live##.sticky-container > .ad
 
-! https://arca.live arcalive manager
+! https://arca.live (arcalive manager)
 arca.live###form\.until
 arca.live##.batch-check
 arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
@@ -28,7 +28,9 @@ gall.dcinside.com##.concept_txtlist
 gall.dcinside.com##div.concept_img:nth-of-type(2)
 gall.dcinside.com##.r_timebest.content_box
 gall.dcinside.com###gall_top_recom > .pageing_box
-@@||gall.dcinside.com##li:nth-of-type(8)
+
+! https://gall.dcinside.com (TEST)
+! @@||gall.dcinside.com##li:nth-of-type(8)
 
 ! https://kr.investing.com
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
