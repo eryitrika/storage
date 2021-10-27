@@ -4,7 +4,7 @@
 !
 arca.live##.right-sidebar > .ad
 arca.live##.sticky-container > .ad
-arca.live/api/ads^
+! arca.live/api/ads^
 arca.live###form\.until
 arca.live##.batch-check
 arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
