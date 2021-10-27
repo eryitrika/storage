@@ -1,4 +1,4 @@
-! Title: Eryitrika Adblock List 1 Base
+! Title: Eryitrika Adblock 01 Base
 ! Version: 21.10.27.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/eryitrika_adblock_list.txt
 !
