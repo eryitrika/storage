@@ -1,6 +1,9 @@
 ! Title: Eryitrika ublock list
-! Version: 21.10.27.4
+! Version: 21.10.28.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
+
+! https://namu.wiki (sidebar)
+||arca.live/external/callad$subdocument
 
 ! https://arca.live (base)
 arca.live##.sticky-container > .ad
