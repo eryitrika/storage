@@ -2,13 +2,13 @@
 ! Version: 21.10.28.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
-! https://namu.wiki (sidebar)
+! https://namu.wiki (Sidebar)
 ||arca.live/external/callad$subdocument
 
-! https://arca.live (sidebar)
+! https://arca.live (Sidebar)
 arca.live##.sticky-container > .ad
 
-! https://arca.live (arcalive manager)
+! https://arca.live (Arcalive manager)
 arca.live###form\.until
 arca.live##.batch-check
 arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
@@ -17,7 +17,7 @@ arca.live##.row.admin-menu
 arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
 arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
 
-! https://gall.dcinside.com
+! https://gall.dcinside.com (Annoyances)
 gall.dcinside.com##.clear.issue_contentbox
 gall.dcinside.com##.visit_history
 gall.dcinside.com##.r_recommend.content_box
@@ -32,8 +32,8 @@ gall.dcinside.com##div.concept_img:nth-of-type(2)
 gall.dcinside.com##.r_timebest.content_box
 gall.dcinside.com###gall_top_recom > .pageing_box
 
-! https://gall.dcinside.com (TEST)
+! https://gall.dcinside.com (Dummy)
 ! @@||gall.dcinside.com##li:nth-of-type(8)
 
-! https://kr.investing.com
+! https://kr.investing.com (Anti-Adblock)
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
