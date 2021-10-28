@@ -5,7 +5,7 @@
 ! https://namu.wiki (sidebar)
 ||arca.live/external/callad$subdocument
 
-! https://arca.live (base)
+! https://arca.live (sidebar)
 arca.live##.sticky-container > .ad
 
 ! https://arca.live (arcalive manager)
