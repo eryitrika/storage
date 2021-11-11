@@ -8,15 +8,6 @@
 ! https://arca.live (Sidebar)
 arca.live##.sticky-container > .ad
 
-! https://arca.live (Arcalive manager)
-arca.live###form\.until
-arca.live##.batch-check
-arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
-arca.live##.btn-block-user.btn-danger.btn
-arca.live##.row.admin-menu
-arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
-arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
-
 ! https://gall.dcinside.com (Annoyances)
 gall.dcinside.com##.clear.issue_contentbox
 gall.dcinside.com##.visit_history
