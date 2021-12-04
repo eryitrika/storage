@@ -1,0 +1,1 @@
+https://github.com/lekakid/ArcaRefresher/releases/latest/download/ArcaRefresher.user.js
