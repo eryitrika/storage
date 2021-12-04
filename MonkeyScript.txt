@@ -1,1 +1,2 @@
 https://github.com/lekakid/ArcaRefresher/releases/latest/download/ArcaRefresher.user.js
+https://raw.githubusercontent.com/eryitrika/storage/master/MEGAupdate.js
