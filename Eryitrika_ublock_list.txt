@@ -22,7 +22,6 @@ gall.dcinside.com##.concept_txtlist
 gall.dcinside.com##div.concept_img:nth-of-type(2)
 gall.dcinside.com##.r_timebest.content_box
 gall.dcinside.com##.r_dcmedia.content_box
-gall.dcinside.com###gall_top_recom > .pageing_box
 
 ! https://gall.dcinside.com (Dummy)
 ! @@||gall.dcinside.com##li:nth-of-type(8)
