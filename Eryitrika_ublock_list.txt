@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.1.5.1
+! Version: 22.1.5.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
@@ -29,6 +29,3 @@ gall.dcinside.com###gall_top_recom > .pageing_box
 
 ! https://kr.investing.com (Anti-Adblock)
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
-
-! 2022-01-20 https://namu.wiki
-namu.wiki##.\31 MR7g\+oW
