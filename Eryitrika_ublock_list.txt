@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.1.25.1
+! Version: 22.1.25.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
@@ -37,3 +37,4 @@ namu.wiki###C6VuLPLqL
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680630&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680632&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680634&size=300x250"]
+gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=205465&size=728x90"]
