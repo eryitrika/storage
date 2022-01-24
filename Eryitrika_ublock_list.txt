@@ -32,3 +32,8 @@ kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscription
 
 ! 2022-01-24 https://namu.wiki
 namu.wiki###C6VuLPLqL
+
+! 2022-01-24 https://gelbooru.com
+gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680630&size=300x250"]
+gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680632&size=300x250"]
+gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680634&size=300x250"]
