@@ -29,3 +29,6 @@ gall.dcinside.com###gall_top_recom > .pageing_box
 
 ! https://kr.investing.com (Anti-Adblock)
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
+
+! 2022-01-24 https://namu.wiki
+namu.wiki###C6VuLPLqL
