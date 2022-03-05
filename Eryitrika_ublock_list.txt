@@ -38,3 +38,6 @@ gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680630&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680632&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680634&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=205465&size=728x90"]
+
+! 2022-03-05 Game Optimizing Service
+||gos-api.gos-gsp.io^
