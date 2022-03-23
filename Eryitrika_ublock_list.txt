@@ -44,3 +44,12 @@ gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=205465&size=728x90"]
 
 ! 2022-03-20 https://arca.live
 arca.live##.sticky-container > .sidebar-item
+
+! 2022-03-23 https://gall.dcinside.com
+gall.dcinside.com##.clear.issue_contentbox
+gall.dcinside.com##.newvisit_history
+gall.dcinside.com##.r_timebest.content_box
+gall.dcinside.com##.r_recommend.content_box
+gall.dcinside.com##.r_hit.content_box
+gall.dcinside.com##.r_dcmedia.content_box
+gall.dcinside.com##.r_wiki.content_box
