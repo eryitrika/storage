@@ -60,3 +60,7 @@ namu.wiki##.wlHv+fls
 
 ! 2022-04-16 https://arca.live
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
+
+! 2022-04-25 https://arca.live
+arca.live##.sticky-container > .ad
+arca.live##.sticky-container > .sidebar-item
