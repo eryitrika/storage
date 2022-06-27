@@ -4,7 +4,3 @@
 
 ! 2022-03-25 https://arca.live
 ||*.namu.la/*
-
-! 2022-04-25 https://arca.live
-! arca.live##.sticky-container > .ad
-! arca.live##.sticky-container > .sidebar-item
