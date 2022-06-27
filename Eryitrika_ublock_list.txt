@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.4.16.1
+! Version: 22.6.27.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
@@ -64,3 +64,10 @@ namu.wiki##.wlHv+fls
 ! 2022-04-25 https://arca.live
 arca.live##.sticky-container > .ad
 arca.live##.sticky-container > .sidebar-item
+
+! 2022-06-27 https://www.pixiv.net
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(4)
+
+! 2022-06-27 https://gall.dcinside.com
+gall.dcinside.com##.gall_exposure
+gall.dcinside.com##.dark.join_tip.pop_tipbox
