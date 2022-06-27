@@ -1,6 +1,10 @@
 ! Title: Eryitrika ublock list SQ
-! Version: 22.3.24.1
+! Version: 22.6.27.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list_sq.txt
 
 ! 2022-03-25 https://arca.live
 ||*.namu.la/*
+
+! 2022-04-25 https://arca.live
+! arca.live##.sticky-container > .ad
+! arca.live##.sticky-container > .sidebar-item
