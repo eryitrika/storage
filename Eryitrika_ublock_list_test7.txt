@@ -1,4 +1,4 @@
-! Title: Eryitrika ublock list
+! Title: Eryitrika ublock list test
 ! Version: 22.6.27.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
