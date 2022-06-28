@@ -53,3 +53,7 @@ gall.dcinside.com##.r_recommend.content_box
 gall.dcinside.com##.r_hit.content_box
 gall.dcinside.com##.r_dcmedia.content_box
 gall.dcinside.com##.r_wiki.content_box
+
+! 2022-04-10 https://namu.wiki
+namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+namu.wiki##.wlHv+fls
