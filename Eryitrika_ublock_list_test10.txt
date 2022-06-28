@@ -54,6 +54,16 @@ gall.dcinside.com##.r_hit.content_box
 gall.dcinside.com##.r_dcmedia.content_box
 gall.dcinside.com##.r_wiki.content_box
 
-! 2022-04-10 https://namu.wiki
-namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
-namu.wiki##.wlHv+fls
+! 2022-04-16 https://arca.live
+||googleads.g.doubleclick.net/pagead/ads$subdocument
+
+! 2022-04-25 https://arca.live
+arca.live##.sticky-container > .ad
+arca.live##.sticky-container > .sidebar-item
+
+! 2022-06-27 https://www.pixiv.net
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(4)
+
+! 2022-06-27 https://gall.dcinside.com
+gall.dcinside.com##.gall_exposure
+gall.dcinside.com##.dark.join_tip.pop_tipbox
