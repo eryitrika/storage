@@ -12,3 +12,6 @@ arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
 arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
 arca.live##.dropdown-toggle.ion-android-menu
 arca.live##span.sep:nth-of-type(3)
+
+! 2022-07-29 https://arca.live
+arca.live##.sticky-container > .sidebar-item
