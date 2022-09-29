@@ -71,3 +71,7 @@ www.pixiv.net##div.sc-jgyytr-1:nth-of-type(4)
 ! 2022-06-27 https://gall.dcinside.com
 gall.dcinside.com##.gall_exposure
 gall.dcinside.com##.dark.join_tip.pop_tipbox
+
+! 2022-09-29 https://arca.live
+arca.live##.board-title > .left
+arca.live##.description > div
