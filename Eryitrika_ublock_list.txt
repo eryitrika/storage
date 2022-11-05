@@ -76,6 +76,6 @@ gall.dcinside.com##.dark.join_tip.pop_tipbox
 arca.live##.board-title > .left
 arca.live##.description > div
 
-! 2022-11-06
+! 2022-11-06 https://mudfish.net
 @@||127.0.0.1^
 @@||mudfish.net^
