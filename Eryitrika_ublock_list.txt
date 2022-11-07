@@ -81,4 +81,4 @@ arca.live##.description > div
 @@||mudfish.net^
 
 ! 2022-11-07 https://sports.naver.com
- @@||sports.naver.com^
+@@||sports.naver.com^
