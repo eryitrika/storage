@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.11.7.2
+! Version: 22.11.7.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
