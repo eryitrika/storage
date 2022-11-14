@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.11.7.4
+! Version: 22.11.14.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
@@ -80,3 +80,12 @@ arca.live##.description > div
 @@||127.0.0.1^
 @@||mudfish.net^
 @@||letskorail.com^
+
+! 2022-11-14 https://gall.dcinside.com
+gall.dcinside.com##.gall_exposure
+gall.dcinside.com##.clear.issue_contentbox
+gall.dcinside.com##.r_timebest.content_box
+gall.dcinside.com##.r_dcmedia.content_box
+gall.dcinside.com##.r_recommend.content_box
+gall.dcinside.com##.r_hit.content_box
+gall.dcinside.com##.r_wiki.content_box
