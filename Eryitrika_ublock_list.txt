@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.12.7.2
+! Version: 22.12.7.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
@@ -93,5 +93,7 @@ www.naver.com###NM_TOP_BANNER
 ! 2022-12-09 https://arca.live
 ! arca.live##.board-article-list > .ad
 ! arca.live##.sticky-container > .ad
-arca.live##.sticky-container > .sidebar-item
 ! arca.live##*.small-ad.ad
+
+! 2022-12-09 https://arca.live
+arca.live##.sticky-container > .sidebar-item
