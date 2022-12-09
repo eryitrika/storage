@@ -85,7 +85,7 @@ gall.dcinside.com##.r_wiki.content_box
 gall.dcinside.com###gall_top_recom
 
 ! 2022-11-23 https://www.pixiv.net
-@@www.pixiv.net##.bGUtlw.sc-1nr368f-2 > div.sc-jgyytr-1 > .iClkCH.sc-1nr368f-4 > .buukZm.sc-jgyytr-0
+@@||pixiv.net##.bGUtlw.sc-1nr368f-2 > div.sc-jgyytr-1 > .iClkCH.sc-1nr368f-4 > .buukZm.sc-jgyytr-0
 
 ! 2022-11-23 https://www.naver.com
 www.naver.com###NM_TOP_BANNER
