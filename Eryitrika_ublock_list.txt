@@ -5,7 +5,7 @@
 ! https://namu.wiki (Sidebar)
 ||arca.live/external/callad$subdocument
 
-! https://! gall.dcinside.com (Annoyances)
+! https://gall.dcinside.com (Annoyances)
 ! gall.dcinside.com##.clear.issue_contentbox
 ! gall.dcinside.com##.visit_history
 ! gall.dcinside.com##.r_recommend.content_box
@@ -21,7 +21,7 @@
 ! gall.dcinside.com##.r_dcmedia.content_box
 ! gall.dcinside.com###gall_top_recom > .pageing_box
 
-! https://! gall.dcinside.com (Dummy)
+! https://gall.dcinside.com (Dummy)
 ! @@|| gall.dcinside.com##li:nth-of-type(8)
 
 ! https://kr.investing.com (Anti-Adblock)
