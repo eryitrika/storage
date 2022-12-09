@@ -1,12 +1,9 @@
 ! Title: Eryitrika ublock list
-! Version: 22.11.23.2
+! Version: 22.12.7.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
 ||arca.live/external/callad$subdocument
-
-! https://arca.live (Sidebar)
-arca.live##.sticky-container > .ad
 
 ! https://! gall.dcinside.com (Annoyances)
 ! gall.dcinside.com##.clear.issue_contentbox
@@ -25,13 +22,13 @@ arca.live##.sticky-container > .ad
 ! gall.dcinside.com###gall_top_recom > .pageing_box
 
 ! https://! gall.dcinside.com (Dummy)
-! @@||! gall.dcinside.com##li:nth-of-type(8)
+! @@|| gall.dcinside.com##li:nth-of-type(8)
 
 ! https://kr.investing.com (Anti-Adblock)
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
 
 ! 2022-01-24 https://namu.wiki
-namu.wiki###C6VuLPLqL
+! namu.wiki###C6VuLPLqL
 
 ! 2022-01-24 https://gelbooru.com
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680630&size=300x250"]
@@ -60,10 +57,6 @@ namu.wiki##.wlHv+fls
 
 ! 2022-04-16 https://arca.live
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
-
-! 2022-04-25 https://arca.live
-arca.live##.sticky-container > .ad
-arca.live##.sticky-container > .sidebar-item
 
 ! 2022-06-27 https://www.pixiv.net
 www.pixiv.net##div.sc-jgyytr-1:nth-of-type(4)
@@ -96,3 +89,9 @@ gall.dcinside.com###gall_top_recom
 
 ! 2022-11-23 https://www.naver.com
 www.naver.com###NM_TOP_BANNER
+
+! 2022-12-09 https://arca.live
+! arca.live##.board-article-list > .ad
+! arca.live##.sticky-container > .ad
+arca.live##.sticky-container > .sidebar-item
+! arca.live##*.small-ad.ad
