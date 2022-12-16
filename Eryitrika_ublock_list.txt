@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 22.12.15.2
+! Version: 22.12.15.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! https://namu.wiki (Sidebar)
@@ -103,10 +103,6 @@ namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/sidebar-box_0
 namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/sidebar_0
 namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0
 namu.wiki##div:nth-of-type(33)
-
-! 2022-12-13 https://www.naver.com
-www.naver.com###veta_top_inner
-www.naver.com###veta_branding_inner
 
 ! 2022-12-14 https://gall.dcinside.com
 gall.dcinside.com##.rightbanner1
