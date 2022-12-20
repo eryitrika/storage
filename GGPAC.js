@@ -5,14 +5,14 @@ function FindProxyForURL(url, host) {
       shExpMatch(host, "*.ppgame.com") || // bilibili
       shExpMatch(host, "*.sunborngame.com") || // china/global/japan
       shExpMatch(host, "*.txwy.tw")) { // taiwan
-    return {"PROXY 192.168.1.2:14146"};
+    return {"PROXY 127.0.0.1:14146"};
   }
   else {
 	  if (shExpMatch(host, "*.hypergryph.com")) {
 		  return {"DIRECT"};
 	  }
 	  else {
-		  return {"PROXY 192.168.1.2:14140"};
+		  return {"PROXY 127.0.0.1:14140"};
 	  }
   }
 }
