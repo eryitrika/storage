@@ -1,7 +1,7 @@
 function FindProxyForURL(url, host) {
   /* GFAlarm Proxy */
   if (shExpMatch(host, "*.girlfrontline.co.kr") || // korea
-	  shExpMatch(host, "*.imtxwy.com") || // korea
+      shExpMatch(host, "*.imtxwy.com") || // korea
       shExpMatch(host, "*.ppgame.com") || // bilibili
       shExpMatch(host, "*.sunborngame.com") || // china/global/japan
       shExpMatch(host, "*.txwy.tw")) { // taiwan
