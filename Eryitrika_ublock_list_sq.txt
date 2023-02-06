@@ -5,8 +5,19 @@
 ! 2022-03-25 https://arca.live
 ! ||*.namu.la/*
 *$image
-*.mp4
+*.bmp
+*.dib
+*.jpg
+*.jpeg
+*.jpe
+*.jfif
 *.gif
+*.tif
+*.tiff
+*.png
+*.apng
+*.heic
+*.mp4
 *.swf
 *.webp
 *.webm
