@@ -1,8 +1,8 @@
 ! Title: Eryitrika ublock list
-! Version: 22.12.24.1
+! Version: 23.3.20.1
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
-! https://namu.wiki (Sidebar)
+! https://! namu.wiki (Sidebar)
 ||arca.live/external/callad$subdocument
 
 ! https://gall.dcinside.com (Annoyances)
@@ -27,7 +27,7 @@
 ! https://kr.investing.com (Anti-Adblock)
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
 
-! 2022-01-24 https://namu.wiki
+! 2022-01-24 https://! namu.wiki
 ! namu.wiki###C6VuLPLqL
 
 ! 2022-01-24 https://gelbooru.com
@@ -50,6 +50,10 @@ arca.live##.sticky-container > .sidebar-item
 ! gall.dcinside.com##.r_hit.content_box
 ! gall.dcinside.com##.r_dcmedia.content_box
 ! gall.dcinside.com##.r_wiki.content_box
+
+! 2022-04-10 https://! namu.wiki
+! ! namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+! namu.wiki##.wlHv+fls
 
 ! 2022-04-16 https://arca.live
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -94,18 +98,18 @@ www.naver.com###NM_TOP_BANNER
 ! 2022-12-09 https://arca.live
 arca.live##.sticky-container > .sidebar-item
 
-! 2022-12-13 https://namu.wiki
-namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/sidebar-box_0
-namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/sidebar_0
-namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0
-namu.wiki##div:nth-of-type(33)
+! 2022-12-13 https://! namu.wiki
+! namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/sidebar-box_0
+! namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/sidebar_0
+! namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0
+! namu.wiki##div:nth-of-type(33)
 
 ! 2022-12-14 https://gall.dcinside.com
 gall.dcinside.com##.rightbanner1
 ||www.mediacategory.com/servlet/adBanner$subdocument
 
-! 2022-12-22 https://namu.wiki
-namu.wiki##.cZgPWb\+y
+! 2022-12-22 https://! namu.wiki
+! namu.wiki##.cZgPWb\+y
 
 ! 2022-12-24 https://freefilesync.org
 freefilesync.org###alt-banner
