@@ -3,7 +3,7 @@
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! ||arca.live/external/callad$subdocument
-! arca.live##.sticky-container > .sidebar-item
+ arca.live##.sticky-container > .sidebar-item
 ! arca.live##.board-title > .left
 ! arca.live##.description > div
 
