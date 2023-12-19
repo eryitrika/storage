@@ -3,9 +3,11 @@
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! ||arca.live/external/callad$subdocument
-arca.live###newsRank
+! arca.live##.sticky-container > .sidebar-item
 ! arca.live##.board-title > .left
 ! arca.live##.description > div
+
+arca.live###newsRank
 
 gall.dcinside.com##.gall_exposure
 gall.dcinside.com##.clear.issue_contentbox
