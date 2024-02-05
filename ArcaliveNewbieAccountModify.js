@@ -6,6 +6,9 @@
     // @match        https://arca.live/b/*/*
     // @grant        GM_xmlhttpRequest
     // @updateURL
+    // https://arca.live/b/arknights/98344291
+    // https://greasyfork.org/ko/scripts/486695-%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EA%B9%A1%EA%B3%84-%ED%99%95%EC%9D%B8-%EC%88%98%EC%A0%95%EB%B3%B8
+    // https://update.greasyfork.org/scripts/486695/%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EA%B9%A1%EA%B3%84%20%ED%99%95%EC%9D%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.user.js
     // ==/UserScript==
      
     const links = document.querySelectorAll('.info-row .user-info a');
@@ -86,7 +89,3 @@
     if (links.length === 0) {
         console.log('링크를 찾을 수 없음');
     }
-
-    // https://arca.live/b/arknights/98344291
-    // https://greasyfork.org/ko/scripts/486695-%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EA%B9%A1%EA%B3%84-%ED%99%95%EC%9D%B8-%EC%88%98%EC%A0%95%EB%B3%B8
-    // https://update.greasyfork.org/scripts/486695/%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EA%B9%A1%EA%B3%84%20%ED%99%95%EC%9D%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.user.js
