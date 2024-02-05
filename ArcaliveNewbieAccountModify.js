@@ -58,17 +58,17 @@ links.forEach((link, index) => {
                     }
                     if (post <= 5 || coment <= 5) {
                         link.style.fontSize = '14px';
-                        link.style.fontWeight = 'normal';
+                        link.style.fontWeight = 'bold';
                         link.style.color = 'darkorange';
                         link.textContent += ' (최근 글:' + post + ' 댓글:' + coment + ')';
                     } else if (post <= 10 || coment <= 10) {
                         link.style.fontSize = '14px';
-                        link.style.fontWeight = 'normal';
+                        link.style.fontWeight = 'bold';
                         link.style.color = 'limegreen';
                         link.textContent += ' (최근 글:' + post + ' 댓글:' + coment + ')';
                     } else if (post <= 14 || coment <= 14) {
                         link.style.fontSize = '14px';
-                        link.style.fontWeight = 'normal';
+                        link.style.fontWeight = 'bold';
                         link.style.color = 'bluesky';
                         link.textContent += ' (최근 글:' + post + ' 댓글:' + coment + ')';
                     } else {
