@@ -72,7 +72,7 @@ links.forEach((link, index) => {
                         link.style.color = 'bluesky';
                         link.textContent += ' (글:' + post + ' 댓글:' + coment + ')';
                     } else {
-                        //firstLink.textContent += ' (최근 글:'+post+' 댓글:'+coment+')';
+                        //firstLink.textContent += ' (글:'+post+' 댓글:'+coment+')';
                     }
                 }
 
