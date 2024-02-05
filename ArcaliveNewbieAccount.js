@@ -8,6 +8,7 @@
 // ==/UserScript==
 // Source https://raw.githubusercontent.com/AXfYVzWUQ5Cd/LM7R95774Ef9/main/ArcaliveNewbieAccount.js
 // 원출처 https://greasyfork.org/en/scripts/470279-%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EA%B9%A1%EA%B3%84%ED%99%95%EC%9D%B8
+// 참고글 https://arca.live/b/arcalivebreverse/90757426
 
 const firstLink = document.querySelector('.info-row .user-info a');
 if (firstLink) {
