@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         아카라이브 깡계 확인 수정본
+// @name         아카라이브 깡계 확인 수정본 개인용
 // @namespace    Null
 // @version      1.2
 // @description  아카라이브 깡계 확인 스크립트
