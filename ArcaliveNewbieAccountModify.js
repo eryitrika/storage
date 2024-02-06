@@ -5,8 +5,8 @@
 // @description  아카라이브 깡계 확인 스크립트
 // @match        https://arca.live/b/*/*
 // @grant        GM_xmlhttpRequest
-// @downloadURL https://update.greasyfork.org/scripts/486695/%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EA%B9%A1%EA%B3%84%20%ED%99%95%EC%9D%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.user.js
-// @updateURL https://update.greasyfork.org/scripts/486695/%EC%95%84%EC%B9%B4%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EA%B9%A1%EA%B3%84%20%ED%99%95%EC%9D%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.meta.js
+// @downloadURL https://raw.githubusercontent.com/eryitrika/storage/master/ArcaliveNewbieAccountModify.js
+// @updateURL https://raw.githubusercontent.com/eryitrika/storage/master/ArcaliveNewbieAccountModify.js
 // ==/UserScript==
 
 const links = document.querySelectorAll('.info-row .user-info a');
