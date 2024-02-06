@@ -69,7 +69,7 @@ links.forEach((link, index) => {
                     } else if (post <= 14 || coment <= 14) {
                         link.style.fontSize = '14px';
                         link.style.fontWeight = 'bold';
-                        link.style.color = 'bluesky';
+                        link.style.color = 'skyblue';
                         link.textContent += ' (글:' + post + ' 댓글:' + coment + ')';
                     } else {
                         //firstLink.textContent += ' (글:'+post+' 댓글:'+coment+')';
