@@ -34,7 +34,7 @@ links.forEach((link, index) => {
                     link.style.fontWeight = 'bold';
                     link.style.color = 'grey';
                     link.style.textDecoration = 'line-through';
-                    link.textContent += ' (삭제)';
+                    link.textContent += ' (삭제된 계정)';
                     console.log("삭제된 계정");
                 } else {
                     const cardBlockElement = doc.querySelector('.card-block');
