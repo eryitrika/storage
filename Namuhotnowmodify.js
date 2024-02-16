@@ -13,6 +13,8 @@
     // @connect      arca.live
     // @icon         https://www.google.com/s2/favicons?sz=64&domain=namu.wiki
     // @grant        GM_xmlhttpRequest
+    // @downloadURL  https://raw.githubusercontent.com/eryitrika/storage/master/Namuhotnowmodify.js
+    // @updateURL    https://raw.githubusercontent.com/eryitrika/storage/master/Namuhotnowmodify.js
     // ==/UserScript==
      
     function findLinkByPartialMatch(pairs, searchString) {
