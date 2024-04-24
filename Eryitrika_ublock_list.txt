@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 24.4.24.1
+! Version: 24.4.24.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! ||arca.live/external/callad$subdocument
@@ -7,7 +7,7 @@
 ! arca.live##.board-title > .left
 ! arca.live##.description > div
 
-arca.live###newsRank
+arca.live###newsRank.sidebar-item
 arca.live##.spoiler-alert-content
 
 gall.dcinside.com##.gall_exposure
