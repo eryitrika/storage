@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list SP
-! Version: 22.12.7.1
+! Version: 22.12.7.2
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list_sp.txt
 
 ! https://arca.live (Arcalive manager)
@@ -9,6 +9,8 @@ arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
 arca.live##.btn-block-user.btn-danger.btn
 arca.live##.row.admin-menu
 arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
-! arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
-arca.live##.dropdown-toggle.ion-android-menu
 arca.live##.batch-check-all
+
+! https://arca.live (Arcalive manager) - unused
+! arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
+! arca.live##.dropdown-toggle.ion-android-menu
