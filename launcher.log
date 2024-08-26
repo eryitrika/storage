@@ -1,0 +1,100 @@
+[2024-08-26 22:05:49.962] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-08-26 22:05:49.963] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -steamAppId=271590 -steamLocation "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V" @args.txt
+[2024-08-26 22:05:49.963] [DISPLAY] [Main ] [main] P4 Version: 
+[2024-08-26 22:05:49.963] [DISPLAY] [Main ] [main] RGL Branch: release_08
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main] Version: 1.0.93.2040
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main] Parameters:
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main]     -steamAppId=271590
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main]     -steamLocation
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main]     C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main]     @args.txt
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main] Initial Working Directory: C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+[2024-08-26 22:05:49.964] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2024-08-26 22:05:49.988] [DISPLAY] [Main ] [external] Creating Steam min mode launch
+[2024-08-26 22:05:49.991] [DISPLAY] [Main ] [external] Steam App Id: 271590
+[2024-08-26 22:05:49.991] [DISPLAY] [Main ] [external] Steam Location: C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+[2024-08-26 22:05:49.992] [DISPLAY] [Main ] [metadatamanager] Read external Steam metadata: gta5
+[2024-08-26 22:05:49.992] [DISPLAY] [Main ] [external] App: gta5
+[2024-08-26 22:05:50.023] [DISPLAY] [Main ] [titlemanager] Could not get title list cache from disk; no titles known to be installed.
+[2024-08-26 22:05:50.023] [DISPLAY] [Main ] [preqmanager] Could not get preq list from disk; no preqs known to be installed.
+[2024-08-26 22:05:50.028] [WARNING] [Main ] [titlemanager] RGL install location not set, using exe location: C:\Program Files\Rockstar Games\Launcher
+[2024-08-26 22:05:50.030] [WARNING] [Main ] [settingsmanager] Couldn't read settings file C:\ProgramData\Rockstar Games\Launcher\settings_machine.dat; using defaults.
+[2024-08-26 22:05:50.032] [DISPLAY] [Main ] [svc] Service version: 1.0.93.2040 (1.0.93.2040)
+[2024-08-26 22:05:50.040] [DISPLAY] [Main ] [main] Current environment (prod) different to previous launch (); updating environment setting
+[2024-08-26 22:05:50.114] [DISPLAY] [Main ] [fileutils] Version: 2.3.3.1 | 1.0.93.2040 | FFP
+[2024-08-26 22:05:51.240] [WARNING] [Main ] [svc] Handshake with service timed out. Setting message protocol to version 0.
+[2024-08-26 22:06:00.724] [WARNING] [bgsvc] [svc_transactionqueue] 1 transaction(s) are timing out when sending ping.
+[2024-08-26 22:06:00.724] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 1 queued transaction(s) total.
+[2024-08-26 22:06:00.726] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:06:00.739] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:06:00.741] [ ERROR ] [Main ] [svc] Service was requested to restart, restarting!
+[2024-08-26 22:06:00.741] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:06:00.741] [WARNING] [Main ] [svc_transactionqueue] Failing all transactions due to error with the service!
+[2024-08-26 22:06:00.741] [ ERROR ] [Main ] [svc_mem] Service reports allocation failure.
+[2024-08-26 22:06:00.741] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2024-08-26 22:06:02.119] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:05.131] [DISPLAY] [Main ] [svc] Starting service (attempt 2 / 3)...
+[2024-08-26 22:06:06.352] [WARNING] [Main ] [svc] Handshake with service timed out. Setting message protocol to version 0.
+[2024-08-26 22:06:06.371] [DISPLAY] [net1 ] [title] Current version for title [pv] Launcher : 1.0.93.2040
+[2024-08-26 22:06:06.385] [ ERROR ] [Main ] [svc] Service pipe has disconnected unexpectedly, restarting!
+[2024-08-26 22:06:06.385] [WARNING] [Main ] [svc_transactionqueue] Failing all transactions due to error with the service!
+[2024-08-26 22:06:06.385] [ ERROR ] [Main ] [svc_mem] Service reports allocation failure.
+[2024-08-26 22:06:06.385] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2024-08-26 22:06:06.387] [WARNING] [net1 ] [titlemanager] Unable to finish writing titles file!
+[2024-08-26 22:06:07.760] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:10.772] [DISPLAY] [Main ] [svc] Starting service (attempt 2 / 3)...
+[2024-08-26 22:06:11.132] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:17.146] [DISPLAY] [Main ] [svc] Starting service (attempt 3 / 3)...
+[2024-08-26 22:06:17.519] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:26.525] [DISPLAY] [Main ] [svc] Starting service (attempt 4 / 3)...
+[2024-08-26 22:06:27.772] [WARNING] [Main ] [svc] Handshake with service timed out. Setting message protocol to version 0.
+[2024-08-26 22:06:37.260] [WARNING] [bgsvc] [svc_transactionqueue] 1 transaction(s) are timing out when sending ping.
+[2024-08-26 22:06:37.260] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 1 queued transaction(s) total.
+[2024-08-26 22:06:37.262] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:06:37.273] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  1 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:06:37.275] [ ERROR ] [Main ] [svc] Service was requested to restart, restarting!
+[2024-08-26 22:06:37.275] [WARNING] [Main ] [svc_transactionqueue] Failing all transactions due to error with the service!
+[2024-08-26 22:06:37.275] [ ERROR ] [Main ] [svc_mem] Service reports allocation failure.
+[2024-08-26 22:06:37.275] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2024-08-26 22:06:38.662] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:41.674] [DISPLAY] [Main ] [svc] Starting service (attempt 2 / 3)...
+[2024-08-26 22:06:42.893] [WARNING] [Main ] [svc] Handshake with service timed out. Setting message protocol to version 0.
+[2024-08-26 22:06:42.927] [ ERROR ] [Main ] [svc] Service pipe has disconnected unexpectedly, restarting!
+[2024-08-26 22:06:42.927] [WARNING] [Main ] [svc_transactionqueue] Failing all transactions due to error with the service!
+[2024-08-26 22:06:42.927] [ ERROR ] [Main ] [svc_mem] Service reports allocation failure.
+[2024-08-26 22:06:42.927] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2024-08-26 22:06:42.928] [WARNING] [net3 ] [titlemanager] Unable to finish writing titles file!
+[2024-08-26 22:06:44.282] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:47.297] [DISPLAY] [Main ] [svc] Starting service (attempt 2 / 3)...
+[2024-08-26 22:06:47.653] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:06:53.665] [DISPLAY] [Main ] [svc] Starting service (attempt 3 / 3)...
+[2024-08-26 22:06:54.064] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:07:03.185] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-08-26 22:07:03.193] [DISPLAY] [Main ] [launcher] Passed check: majorVersion(10.0.22631) >= 10
+[2024-08-26 22:07:03.205] [DISPLAY] [Main ] [svc] Starting service (attempt 4 / 3)...
+[2024-08-26 22:07:04.460] [WARNING] [Main ] [svc] Handshake with service timed out. Setting message protocol to version 0.
+[2024-08-26 22:07:13.950] [WARNING] [bgsvc] [svc_transactionqueue] 2 transaction(s) are timing out when sending ping.
+[2024-08-26 22:07:13.950] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  2 queued transaction(s) timed out, 1 queued transaction(s) total.
+[2024-08-26 22:07:13.952] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  2 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:07:13.983] [WARNING] [bgsvc] [svc_transactionqueue] Service timed out.  2 queued transaction(s) timed out, 0 queued transaction(s) total.
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [svc] Service was requested to restart, restarting!
+[2024-08-26 22:07:13.983] [WARNING] [Main ] [svc_transactionqueue] Failing all transactions due to error with the service!
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [svc_mem] Service reports allocation failure.
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [svc_mem] Allocation failure during service initialization.
+[2024-08-26 22:07:13.983] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [launcher] Failed to allocate shared memory.
+[2024-08-26 22:07:13.983] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] ************************************************************************
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] * Setting error condition
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] * Category:  1   (ERROR_CATEGORY_LAUNCHER)
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] * Code:      159 (0x9f)
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] * Extra:     
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] * Localised: Rockstar Games 라이브러리 서비스를 연결하지 못했습니다. 계속해서 해당 메시지가 보이면 Rockstar Games 고객 지원 https://support.rockstargames.com/kr으로 문의해주십시오.
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [error] ************************************************************************
+[2024-08-26 22:07:13.983] [ ERROR ] [Main ] [launcher] Displaying error message: Rockstar Games 라이브러리 서비스를 연결하지 못했습니다. 계속해서 해당 메시지가 보이면 Rockstar Games 고객 지원 https://support.rockstargames.com/kr으로 문의해주십시오.
+[2024-08-26 22:07:15.352] [WARNING] [Main ] [svc] Error starting service! (exit code 1)
+[2024-08-26 22:07:15.504] [DISPLAY] [Main ] [launcher] Shutdown requested! Forced: true
+[2024-08-26 22:07:15.521] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2024-08-26 22:07:15.543] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
