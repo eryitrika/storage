@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 24.4.24.3
+! Version: 24.4.24.4
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 ! ||arca.live/external/callad$subdocument
@@ -39,3 +39,7 @@ googleads.g.doubleclick.net/pagead/ads$subdocument
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
 naver.com###NM_TOP_BANNER
 freefilesync.org###alt-banner
+
+! 2024. 10. 18. https://arca.live
+arca.live###wall > [href^="https://wall.smaad.net/wall/136865783"]
+arca.live##.d-md-block.d-none.banner > [href^="https://wall.smaad.net/wall/136865783"]
