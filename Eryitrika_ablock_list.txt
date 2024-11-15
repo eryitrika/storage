@@ -1,0 +1,8 @@
+! Title: Eryitrika ablock list
+! Version: 24.11.15.0
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ablock_list.txt
+
+arca.live###newsRank.sidebar-item
+arca.live##.spoiler-alert-content
+arca.live###wall > [href^="https://wall.smaad.net/wall/136865783"]
+arca.live##.d-md-block.d-none.banner > [href^="https://wall.smaad.net/wall/136865783"]
