@@ -1,15 +1,6 @@
 ! Title: Eryitrika ublock list
-! Version: 24.4.24.4
+! Version: 24.4.24.5
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
-
-! ||arca.live/external/callad$subdocument
-! arca.live##.sticky-container > .sidebar-item
-! arca.live##.board-title > .left
-! arca.live##.description > div
-
-arca.live###newsRank.sidebar-item
-arca.live##.spoiler-alert-content
-||arca.live/static/assets/images/karisuma-point-pc-x2.png$image
 
 gall.dcinside.com##.gall_exposure
 gall.dcinside.com##.clear.issue_contentbox
@@ -26,9 +17,6 @@ gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680632&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680634&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=205465&size=728x90"]
 
-! pixiv.net##div.sc-jgyytr-1:nth-of-type(4)
-! @@||pixiv.net##.bGUtlw.sc-1nr368f-2 > div.sc-jgyytr-1 > .iClkCH.sc-1nr368f-4 > .buukZm.sc-jgyytr-0
-
 @@||127.0.0.1^
 @@||mudfish.net^
 @@||letskorail.com^
@@ -39,7 +27,3 @@ googleads.g.doubleclick.net/pagead/ads$subdocument
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
 naver.com###NM_TOP_BANNER
 freefilesync.org###alt-banner
-
-! 2024. 10. 18. https://arca.live
-arca.live###wall > [href^="https://wall.smaad.net/wall/136865783"]
-arca.live##.d-md-block.d-none.banner > [href^="https://wall.smaad.net/wall/136865783"]
