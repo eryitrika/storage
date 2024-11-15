@@ -6,5 +6,4 @@ arca.live###newsRank.sidebar-item
 arca.live##.spoiler-alert-content
 arca.live###wall > [href^="https://wall.smaad.net/wall/136865783"]
 arca.live##.d-md-block.d-none.banner > [href^="https://wall.smaad.net/wall/136865783"]
-
-||arca.live/static/assets/images/empty_ad_sidebar.svg
+arca.live##[src="/static/assets/images/empty_ad_sidebar.svg"]
