@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list web
-! Version: 23.4.14.3
+! Version: 1.0.0.3
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list_web.txt
 
 ! 2023-09-13 https://arca.live
