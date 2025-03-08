@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 1.0.0.6
+! Version: 1.0.0.7
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 gall.dcinside.com##.gall_exposure
@@ -11,6 +11,7 @@ gall.dcinside.com##.r_hit.content_box
 gall.dcinside.com##.r_wiki.content_box
 gall.dcinside.com###gall_top_recom
 gall.dcinside.com##.rightbanner1
+! gall.dcinside.com#?#.gall_list tr:-abp-has(> td.gall_subject:-abp-contains(The_subject_you_want_to_hide))
 
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680630&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680632&size=300x250"]
