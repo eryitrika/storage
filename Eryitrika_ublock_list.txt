@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 1.0.0.8
+! Version: 1.0.0.9
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 gall.dcinside.com##.gall_exposure
@@ -15,6 +15,8 @@ gall.dcinside.com##.rightbanner1
 
 ||arca.live/static/assets/images/spoiler-alert*.png$image
 arca.live#$#.spoiler-filter.active { filter: none !important; }
+! arca.live##a.vrow:has(span[data-filter="차단원하는사람닉네임"])
+! arca.live##.comment-item:has(a[data-filter="차단원하는사람닉네임"])
 
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680630&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680632&size=300x250"]
