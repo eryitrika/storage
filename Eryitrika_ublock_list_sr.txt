@@ -1,0 +1,6 @@
+! Title: Eryitrika ublock list sr
+! Version: 1.0.0.3
+! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list_sr.txt
+
+arca.live##.topbar-area:has(> .badge:has-text(뉴스))
+arca.live##div.ad
