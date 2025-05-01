@@ -5,4 +5,3 @@
 ||da.namu.la^$domain=arca.live
 ||arca.live/api/*pagead?$xmlhttprequest
 newautopost.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad
-arca.live#?#.topbar-area:has(> .badge:contains(뉴스))
