@@ -1,6 +1,8 @@
 ! Title: Eryitrika ublock list SR
-! Version: 1.0.0.3
+! Version: 1.0.0.4
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list_sr.txt
 
-arca.live##.topbar-area:has(> .badge:has-text(뉴스))
-arca.live##div.ad
+||da.namu.la^$domain=arca.live
+||arca.live/api/*pagead?$xmlhttprequest
+newautopost.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad
+arca.live#?#.topbar-area:has(> .badge:contains(뉴스))
