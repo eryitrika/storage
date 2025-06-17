@@ -26,7 +26,6 @@ gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680634&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=205465&size=728x90"]
 
 @@||mudfish.net^
-shana.pe.kr###shanaModal
 
 googleads.g.doubleclick.net/pagead/ads$subdocument
 ||mediacategory.com/servlet/adBanner$subdocument
@@ -35,3 +34,4 @@ newautopost.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.i
 kr.investing.com##.js-billboard-ad-free-message.type-1.strip.adsFreeSubscriptionMessage
 naver.com###NM_TOP_BANNER
 freefilesync.org###alt-banner
+shana.pe.kr###shanaModal
