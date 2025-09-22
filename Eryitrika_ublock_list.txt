@@ -1,5 +1,5 @@
 ! Title: Eryitrika ublock list
-! Version: 1.0.0.11
+! Version: 1.0.0.12
 ! Source: https://raw.githubusercontent.com/eryitrika/storage/master/Eryitrika_ublock_list.txt
 
 gall.dcinside.com##.gall_exposure
@@ -26,6 +26,7 @@ gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=1680634&size=300x250"]
 gelbooru.com##[src="//a.realsrv.com/iframe.php?idzone=205465&size=728x90"]
 
 @@||mudfish.net^
+@@||wplace.live$document
 
 googleads.g.doubleclick.net/pagead/ads$subdocument
 ||mediacategory.com/servlet/adBanner$subdocument
